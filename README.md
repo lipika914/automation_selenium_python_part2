@@ -78,7 +78,7 @@ class BasePage:
 
     def quit(self):
         self.driver.quit()
-
+```
 ### **LoginClass.py**  
 Represents the login page, encapsulating its locators and actions:  
 ```python
