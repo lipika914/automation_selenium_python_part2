@@ -37,8 +37,7 @@ The **Page Object Model** is a design pattern for test automation frameworks whe
 ### Installation Steps  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+ (https://github.com/lipika914/automation_selenium_python_part2)
    ```   
 
 2. Ensure the appropriate WebDriver is installed and added to system’s PATH.  
